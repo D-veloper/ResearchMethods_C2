@@ -5,6 +5,7 @@ Professor C was approached by a team of researchers from the University of Oxfor
 
 Each row in the data set from the project contains the following information:
 Participant number
+
 Type of Diet
 Gender
 Age Group
